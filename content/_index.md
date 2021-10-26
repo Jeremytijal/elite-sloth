@@ -1,6 +1,6 @@
 ---
 title: Home
-url: "https://netary.fr"
+url: "netary.fr"
 sections: []
 seo:
   title: Stackbit Starter Theme
