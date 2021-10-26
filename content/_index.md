@@ -1,5 +1,6 @@
 ---
 title: Home
+url: https://netary.fr
 sections: []
 seo:
   title: Stackbit Starter Theme
@@ -27,5 +28,5 @@ seo:
     - name: twitter:image
       value: images/starter-preview.png
       relativeUrl: true
-layout: advanced
+layout: advanced2
 ---
