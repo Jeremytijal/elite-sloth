@@ -900,7 +900,7 @@ collections:
         default: advanced
     filter:
       field: layout
-      value: advanced
+      value: advanced2
   - name: advanced
     label: Advanced Pages
     folder: content
@@ -1349,7 +1349,7 @@ collections:
         name: layout
         label: Layout
         required: true
-        default: advanced2
+        default: advanced
     filter:
       field: layout
-      value: advanced2
+      value: advanced
